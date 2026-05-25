@@ -3,7 +3,7 @@
 ## 👥 Nhóm thực hiện
 Dự án được thực hiện bởi nhóm sinh viên:
 
-| Họ và Tên | Mã số sinh viên (MSSV) |
+| Họ và Tên | Mã số sinh viên |
 | :--- | :---: |
 | **Lê Đức Tuấn** | 23130060 |
 | **Nguyễn Phước Hoàng Quân** | 23130039 |
