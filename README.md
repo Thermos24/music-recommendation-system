@@ -1,5 +1,13 @@
 # 🎵 Music Recommendation System
 
+## 👥 Nhóm thực hiện
+Dự án được thực hiện bởi nhóm sinh viên:
+
+| Họ và Tên | Mã số sinh viên (MSSV) |
+| :--- | :---: |
+| **Lê Đức Tuấn** | 23130060 |
+| **Nguyễn Phước Hoàng Quân** | 23130039 |
+
 ## 📖 Giới thiệu dự án
 Dự án **Music Recommendation System** được xây dựng nhằm mục đích khám phá, phân tích các thuộc tính đặc trưng của âm nhạc và ứng dụng các thuật toán Machine Learning để xây dựng hệ thống gợi ý bài hát thông minh. Dự án tập trung vào việc xử lý tập dữ liệu, phân tích trực quan hóa (EDA) và mô hình hóa dữ liệu nhằm đưa ra những đề xuất âm nhạc tối ưu nhất.
 
